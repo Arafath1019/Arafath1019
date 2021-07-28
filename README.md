@@ -29,9 +29,9 @@ func main() {
 
 func GetBio() Bio {
 	return Bio{
-		"- ⚡ Quick bio:":                    "A kind of metalHead-synthWave-cyberPunk-traveler-foodLover-gamer-coder-programmer-catLover",
+		"- ⚡ Quick bio:":                    "A kind of metalHead-synthWave-cyberPunk-traveler-foodLover-gamer-coder-programmer",
 		"- 🔭 I’m currently working on":      "BJIT Ltd as a Software Engineer",
-		"- 🌱 I’m currently learning":        "AWS, Docker, Kubernates, CI/CD --- Sharpening my Front End Skills for the MERN stack (Personal goal)",
+		"- 🌱 I’m currently learning":        "Golang, AWS, Docker, Kubernates, CI/CD --- Sharpening my Front End Skills for the MERN stack (Personal goal)",
 		"- 👯 I’m looking to collaborate on": "Python, Javascript, PHP and Docker related projects",
 		"- 🤔 I’m looking for help with":     "Anything related to what I am currently learning 😅",
 		"- 💬 Ask me about":                  "Python, PHP, Laravel, SQL, Software Design & Architecture, Web-Dev",
