@@ -53,3 +53,26 @@ Languages and Tools🛠:
 </details>
 
 ---
+
+<details>
+<summary> Connect with me🤝: </summary>  
+
+<br/>
+
+<a href="https://github.com/Davekibh">
+  <img align="left" alt="Dave's Github" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" />
+</a>
+
+<a href="https://www.facebook.com/arafath.yeasin1019/">
+  <img align="left" alt="Dave's Facebook" width="22px" src="https://facebookbrand.com/wp-content/uploads/2019/04/f_logo_RGB-Hex-Blue_512.png?w=512&h=512" />
+</a>
+
+<a href="https://www.linkedin.com/in/yeasin-arafath-2a5293164/">
+  <img align="left" alt="Dave's Linkdein" width="22px" src="https://cdn3.iconfinder.com/data/icons/inficons/512/linkedin.png" />
+</a>
+
+<br/>
+
+</details>
+
+---
