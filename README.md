@@ -141,6 +141,7 @@ Is it boring? Here are some [🦜 parrots](https://cultofthepartyparrot.com) for
 <hr>
 
 ### Github Activity ✔:
+<div align="center">
 
 ### My Projects ✨:
   
@@ -167,3 +168,5 @@ Is it boring? Here are some [🦜 parrots](https://cultofthepartyparrot.com) for
 <a href="https://github.com/Arafath1019/Dog-Breed-Identification-Using-TF2.0-TF-Hub">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Arafath1019&repo=Dog-Breed-Identification-Using-TF2.0-TF-Hub&theme=tokyonight" />
 </a>
+	
+</div>
