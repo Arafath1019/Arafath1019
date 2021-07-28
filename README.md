@@ -143,32 +143,28 @@ Is it boring? Here are some [🦜 parrots](https://cultofthepartyparrot.com) for
 
 ### Github Activity ✔:
 
-<br/>
-<br/>
-<br/>
-
 ### My Projects ✨:
   
-<a href="https://github.com/Davekibh/Background-generator">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Davekibh&repo=Background-generator&theme=tokyonight" />
+<a href="https://github.com/Arafath1019/Face-Detection-Web-App">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Arafath1019&repo=Face-Detection-Web-App&theme=tokyonight" />
 </a>
 
-<a href="https://github.com/Davekibh/robofriends">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Davekibh&repo=robofriends&theme=tokyonight" />
+<a href="https://github.com/Arafath1019/Modern-React-with-Redux">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Arafath1019&repo=Modern-React-with-Redux&theme=tokyonight" />
 </a>
 
-<a href="https://github.com/Davekibh/Picture-Sharing-app">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Davekibh&repo=Picture-Sharing-app&theme=tokyonight" />
+<a href="https://github.com/Arafath1019/DevConnector-MERN-Stack-Application">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Arafath1019&repo=DevConnector-MERN-Stack-Application&theme=tokyonight" />
 </a>
 
-<a href="https://github.com/Davekibh/Chat-app">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Davekibh&repo=Chat-app&theme=tokyonight" />
+<a href="https://github.com/Arafath1019/Docker-Compose-with-multiple-local-containers-Node-app-redis-server-">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Arafath1019&repo=Docker-Compose-with-multiple-local-containers-Node-app-redis-server-&theme=tokyonight" />
 </a>
 
-<a href="https://github.com/Davekibh/Quiz-App">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Davekibh&repo=Quiz-App&theme=tokyonight" />
+<a href="https://github.com/Arafath1019/Restaurant-Search-App-using-React-native">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Arafath1019&repo=Restaurant-Search-App-using-React-native&theme=tokyonight" />
 </a>
 
-<a href="https://github.com/Davekibh/Quiz-Admin-App">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Davekibh&repo=Quiz-Admin-App&theme=tokyonight" />
+<a href="https://github.com/Arafath1019/Dog-Breed-Identification-Using-TF2.0-TF-Hub">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Arafath1019&repo=Dog-Breed-Identification-Using-TF2.0-TF-Hub&theme=tokyonight" />
 </a>
