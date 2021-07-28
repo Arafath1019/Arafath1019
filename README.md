@@ -172,6 +172,5 @@ Is it boring? Here are some [🦜 parrots](https://cultofthepartyparrot.com) for
 </div>
 
 
-<!-- <p align="center"><img src="https://media.giphy.com/media/l3q2wJsC23ikJg9xe/giphy.gif" alt="Synthwave" height="300" width="500"></p> -->
+<p align="center"><img src="https://tenor.com/view/elvis-thank-you-gif-12977695" alt="Synthwave" height="300" width="500"></p>
 
-<iframe src="https://giphy.com/embed/l3q2wJsC23ikJg9xe" width="480" height="358" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/thanks-thank-you-kazoo-kid-l3q2wJsC23ikJg9xe">via GIPHY</a></p>
