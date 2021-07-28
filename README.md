@@ -60,17 +60,21 @@ Languages and Tools🛠:
 <br/>
 
 <a href="https://github.com/Davekibh">
-  <img align="left" alt="Dave's Github" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" />
+  <img align="left" alt="Arafath's Github" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" />
 </a>
 
 <a href="https://www.facebook.com/arafath.yeasin1019/">
-  <img align="left" alt="Dave's Facebook" width="22px" src="https://facebookbrand.com/wp-content/uploads/2019/04/f_logo_RGB-Hex-Blue_512.png?w=512&h=512" />
+  <img align="left" alt="Arafath's Facebook" width="22px" src="https://facebookbrand.com/wp-content/uploads/2019/04/f_logo_RGB-Hex-Blue_512.png?w=512&h=512" />
 </a>
 
 <a href="https://www.linkedin.com/in/yeasin-arafath-2a5293164/">
-  <img align="left" alt="Dave's Linkdein" width="22px" src="https://cdn3.iconfinder.com/data/icons/inficons/512/linkedin.png" />
+  <img align="left" alt="Arafath's Linkdein" width="22px" src="https://cdn3.iconfinder.com/data/icons/inficons/512/linkedin.png" />
 </a>
 
+<a href="arafath.yeasin1019@gmail.com">
+  <img align="left" alt="Arafath's Facebook" width="22px" src="https://img.icons8.com/plasticine/2x/gmail-new.png" />
+</a>
+  
 <br/>
 
 </details>
