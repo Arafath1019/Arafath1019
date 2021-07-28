@@ -170,8 +170,8 @@ Is it boring? Here are some [🦜 parrots](https://cultofthepartyparrot.com) for
 </a>
 	
 </div>
-<!-- 
-<a href="https://www.animatedimages.org/cat-thank-you-466.htm"><img src="https://www.animatedimages.org/data/media/466/animated-thank-you-image-0058.gif" border="0" alt="animated-thank-you-image-0058" /></a> -->
+<hr />
+<hr />
 
 
 <p align="center"><img src="https://www.animatedimages.org/data/media/466/animated-thank-you-image-0058.gif" alt="Synthwave" height="150" width="150"></p>
