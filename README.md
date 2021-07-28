@@ -110,7 +110,7 @@ func GetBio() Bio {
 
 <hr/>
 
-Bored? Here are some [🦜 parrots](https://cultofthepartyparrot.com) for you xd:
+Is it boring? Here are some [🦜 parrots](https://cultofthepartyparrot.com) for you xd:
 
 <div>
     <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
