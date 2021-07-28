@@ -170,3 +170,5 @@ Is it boring? Here are some [🦜 parrots](https://cultofthepartyparrot.com) for
 </a>
 	
 </div>
+
+<p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500"></p>
