@@ -91,7 +91,7 @@ func GetBio() Bio {
 <details>
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-   <a href="https://github.com/Arafath1019"><img alt="Arafath1019 Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Arafath1019&custom_title=Candida%20Noronha's%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="https://github.com/Arafath1019"><img alt="Arafath1019 Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Arafath1019&custom_title=Yeasin%20Arafath's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 
 </details>
