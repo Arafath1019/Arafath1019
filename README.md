@@ -33,6 +33,7 @@ func GetMyBio() Bio {
 		"- 👯 I’m looking to collaborate on"  : "Python, Javascript, PHP and Docker related projects",
 		"- 🤔 I’m looking for help with"      : "Anything related to what I am currently learning 😅",
 		"- 💬 Ask me about"                   : "Python, PHP, Laravel, SQL, Software Design & Architecture, Web-Dev",
+		"- ⚡ Fun fact"                       : "Competitve esports player",
 	}
 }
 ```
