@@ -108,8 +108,6 @@ func GetMyBio() Bio {
 
 <hr/>
 
-<hr>
-
 ### Github Activity ✔:
 <div align="center">
 
@@ -142,6 +140,4 @@ func GetMyBio() Bio {
 </div>
 <br />
 
-
-<p align="center"><img src="https://www.animatedimages.org/data/media/466/animated-thank-you-image-0058.gif" alt="Synthwave" height="150" width="150"></p>
 
