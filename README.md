@@ -37,6 +37,24 @@ func GetMyBio() Bio {
 	}
 }
 ```
+<h2 align="center">Publications</h2>
+
+```python
+
+def Publications(publication_title, public_access_url):
+	return f'{publication_title} ==> {public_access_url}'
+
+publications_list = [
+	{
+		"publication_title": "Developing a Framework for Credit Card Fraud Detection",
+		"public_access_url": "https://link.springer.com/chapter/10.1007/978-981-16-6636-0_48"
+	}
+]
+
+for publication in publications_list:
+	print(Publication(publication["publication_title"], publication["public_access_url"]))
+	
+```
 
 <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 
