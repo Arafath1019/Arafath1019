@@ -4,14 +4,14 @@
 <h3>Thanks for visiting my profile. I'm a software engineer with 3 years of experience.</h3>
 
 <h2>How To Reach Me:</h2>
-	* Facebook: <br /> 
-	* Github: <br />
-	* Linkedin: <br />
-	* Email: <br />
+	* <a href="https://www.facebook.com/arafath.yeasin1019/">Facebook</a><br /> 
+	* <a href="https://github.com/Arafath1019">Github</a><br />
+	* <a href="https://www.linkedin.com/in/arafath1019/">Linkedin</a><br />
+	* Email: arafath.yeasin1019@gmail.com<br />
 
 <br/>
 
-<h2>My CV/Resume</h2>
+<!-- <h2>My CV/Resume</h2> -->
 
 <div align="center">
 
